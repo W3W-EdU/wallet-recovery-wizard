@@ -64,7 +64,7 @@
     "react-dom": "18.2.0",
     "react-router-dom": "6.4.4",
     "tiny-secp256k1": "^2.2.1",
-    "yup": "0.32.11"
+    "yup": "1.0.0"
   },
   "description": "A UI-based desktop app for BitGo Recoveries",
   "devDependencies": {
